@@ -1,0 +1,36 @@
+---
+src_vocab: 'prepare_data/good_train_clean.src.voc'
+dst_vocab: 'prepare_data/good_train_clean.dst.voc'
+src_vocab_size: 30000
+dst_vocab_size: 30000
+hidden_units: 512
+scale_embedding: True
+attention_dropout_rate: 0.0
+residual_dropout_rate: 0.1
+num_blocks: 6
+num_heads: 8
+binding_embedding: False
+train:
+    logdir: 'save_model1_3000tok/pre_discriminator'
+    dis_src_vocab: 'prepare_data/good_train_clean.src.pkl' 
+    dis_dst_vocab: 'prepare_data/good_train_clean.dst.pkl'
+    dis_max_epoches: 100
+    dis_dispFreq: 1
+    dis_saveFreq: 100
+    dis_devFreq: 100
+    dis_batch_size: 128
+    dis_saveto: 'save_model1_3000tok/pre_discriminator/dis_model_step_0_0000'
+    dis_reshuffle: True
+    dis_gpu_device: 'gpu-0-1'
+    dis_max_len: 50
+    dis_positive_data: 'prepare_data/good_train_clean.dst.5000'
+    dis_negative_data: 'prepare_data/good_train_clean.out.5000'
+    dis_source_data: 'prepare_data/good_train_clean.src.5000'
+    dis_dev_positive_data: 'prepare_data/test.8turkers.clean.dst'
+    dis_dev_negative_data: 'prepare_data/test.8turkers.clean.out'
+    dis_dev_source_data: 'prepare_data/test.8turkers.clean.src'
+    dis_reload: True
+    dis_clip_c: 1.0
+    dis_dim_word: 512
+    dis_optimizer: 'rmsprop'
+    dis_scope: 'discnn'

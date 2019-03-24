@@ -1,0 +1,92 @@
+---
+src_vocab: 'prepare_data/good_train_clean.src.voc'
+dst_vocab: 'prepare_data/good_train_clean.dst.voc'
+src_vocab_size: 30000
+dst_vocab_size: 30000
+hidden_units: 512
+scale_embedding: True
+attention_dropout_rate: 0.0
+residual_dropout_rate: 0.1
+num_blocks: 6
+num_heads: 8
+binding_embedding: False
+gan_iter_num: 10000
+gan_gen_iter_num: 1
+gan_dis_iter_num: 1
+generate_num: 5000
+rollnum: 20
+bias_num: 0.7
+logdir: 'log'
+
+train:
+    devices: '1'
+    src_path: 'prepare_data/good_train_clean.src'
+    dst_path: 'prepare_data/good_train_clean.dst'
+    tokens_per_batch:  3000
+    max_length: 50
+    num_epochs: 500
+    logdir: 'save_model1_3000tok/gan'
+    save_freq: 1000
+    summary_freq: 100
+    grads_clip: 5
+    optimizer: 'adam_decay'
+    learning_rate: 0.00005
+    learning_rate_warmup_steps: 4000
+    label_smoothing: 0.1
+    batch_size: 64
+    shared_embedding: False
+
+test:
+    src_path: 'prepare_data/good_test_clean.src'
+    dst_path: 'prepare_data/good_test_clean.dst'
+    out_path: 'prepare_data/good_test_clean.out'
+    batch_size: 64
+    max_target_length: 60 #!!
+    beam_size: 10 #10
+    lp_alpha: 0.6
+    devices: '0,1'
+
+generator:
+    src_vocab: 'prepare_data/good_train_clean.src.voc'
+    dst_vocab: 'prepare_data/good_train_clean.dst.voc'
+    src_path: 'prepare_data/good_train_clean.src'
+    dst_path: 'prepare_data/good_train_clean.dst'
+    devices: '1'
+    tokens_per_batch:  3000
+    max_length: 50
+    num_epochs: 500
+    logdir: 'save_model1_3000tok/gan/gan.log'
+    save_freq: 1000
+    summary_freq: 100
+    grads_clip: 5
+    optimizer: 'rmsprop'
+    modelFile: 'save_model1_3000tok/gan/model_epoch_13_step_13000'
+    learning_rate: 0.00001
+    learning_rate_warmup_steps: 4000
+    label_smoothing: 0.1
+    batch_size: 64
+    teacher_forcing: True
+
+discriminator:
+    dis_src_vocab: 'prepare_data/good_train_clean.src.pkl' 
+    dis_dst_vocab: 'prepare_data/good_train_clean.dst.pkl'
+    dis_max_epoches: 10000
+    dis_dispFreq: 1
+    dis_saveFreq: 1000
+    dis_devFreq: 100
+    dis_batch_size: 64
+    dis_saveto: 'save_model1_3000tok/pre_discriminator/dis_model_step_0_0000'
+    dis_reshuffle: True
+    dis_gpu_devices: 'gpu-1'
+    dis_max_len: 50
+    dis_positive_data: 'prepare_data/good_train_clean.dst.5000'
+    dis_negative_data: 'prepare_data/good_train_clean.out.5000'
+    dis_source_data: 'prepare_data/good_train_clean.src.5000'
+    dis_dev_positive_data: 'prepare_data/test.8turkers.clean.dst'
+    dis_dev_negative_data: 'prepare_data/test.8turkers.clean.out'
+    dis_dev_source_data: 'prepare_data/test.8turkers.clean.src'
+    dis_reload: True
+    dis_clip_c: 1.0
+    dis_dim_word: 512
+    dis_optimizer: 'rmsprop'
+    dis_scope: 'discnn'

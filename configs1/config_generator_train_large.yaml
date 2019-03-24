@@ -1,0 +1,38 @@
+---
+src_vocab: 'prepare_data_large/goodbad_train_clean.src.voc'
+dst_vocab: 'prepare_data_large/goodbad_train_clean.dst.voc'
+src_vocab_size: 30000 #!!32000
+dst_vocab_size: 30000 #!!32000
+hidden_units: 512
+scale_embedding: True
+attention_dropout_rate: 0.0
+residual_dropout_rate: 0.1
+num_blocks: 6
+num_heads: 8
+binding_embedding: False
+train:
+    devices: '0,1'
+    src_path: 'prepare_data_large/goodbad_train_clean.src'
+    dst_path: 'prepare_data_large/goodbad_train_clean.dst'
+    tokens_per_batch: 3000 #!!25000 
+    max_length: 50
+    num_epochs: 500
+    logdir: 'save_model_large/pre_generator' #!!save_model1
+    save_freq: 1000 #!!1000
+    summary_freq: 100
+    grads_clip: 5
+    optimizer: 'adam_decay'
+    learning_rate: 0.00005
+    learning_rate_warmup_steps: 4000
+    shared_embedding: False
+    label_smoothing: 0.1
+    batch_size: 64  
+test:
+    src_path: 'prepare_data_large/good_test_clean.src'
+    dst_path: 'prepare_data_large/good_test_clean.dst'
+    out_path: 'prepare_data_large/good_test_clean.out'
+    batch_size: 64 
+    max_target_length: 60 #!!
+    beam_size: 10 #10
+    lp_alpha: 0.6
+    devices: '0,1'
