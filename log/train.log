@@ -1,0 +1,1339 @@
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:648: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:648: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:648: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:648: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:648: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:648: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:648: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:648: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:SARI: {}, BLEU: {}
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:SARI: 0.3718863844751156, BLEU: 0.5174396967286163
+INFO:root:SARI: 0.3389992781183832, BLEU: 0.3905972642360858
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:SARI: 0.3718863844751156, BLEU: 0.5174396967286163
+INFO:root:SARI: 0.34465258181366987, BLEU: 0.7470631493263347
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:SARI: 0.3740540092464015, BLEU: 0.5042116225846289
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:model:Build model on /gpu:2.
+INFO:model:Build model on /gpu:3.
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build generate model on /gpu:2
+INFO:model:Build generate model on /gpu:3
+INFO:model:Build roll generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:2
+INFO:model:Build roll generate model on /gpu:3
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:model:Build model on /gpu:2.
+INFO:model:Build model on /gpu:3.
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build generate model on /gpu:2
+INFO:model:Build generate model on /gpu:3
+INFO:model:Build roll generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:2
+INFO:model:Build roll generate model on /gpu:3
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:model:Build model on /gpu:2.
+INFO:model:Build model on /gpu:3.
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build generate model on /gpu:2
+INFO:model:Build generate model on /gpu:3
+INFO:model:Build roll generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:2
+INFO:model:Build roll generate model on /gpu:3
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:Generate the train samples
+INFO:root:Max_SARI_results: 0.32
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:model:Build model on /gpu:2.
+INFO:model:Build model on /gpu:3.
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build generate model on /gpu:2
+INFO:model:Build generate model on /gpu:3
+INFO:model:Build roll generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:2
+INFO:model:Build roll generate model on /gpu:3
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:Generate the train samples
+INFO:root:Max_SARI_results: 0.32
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:model:Build model on /gpu:2.
+INFO:model:Build model on /gpu:3.
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build generate model on /gpu:2
+INFO:model:Build generate model on /gpu:3
+INFO:model:Build roll generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:2
+INFO:model:Build roll generate model on /gpu:3
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:Generate the train samples
+INFO:root:Max_SARI_results: 0.32
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:model:Build model on /gpu:2.
+INFO:model:Build model on /gpu:3.
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build generate model on /gpu:2
+INFO:model:Build generate model on /gpu:3
+INFO:model:Build roll generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:2
+INFO:model:Build roll generate model on /gpu:3
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:Generate the train samples
+INFO:root:Max_SARI_results: 0.32
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:601: arg_max (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `argmax` instead
+INFO:model:Build model on /gpu:1.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:model:Build model on /gpu:2.
+INFO:model:Build model on /gpu:3.
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build generate model on /gpu:2
+INFO:model:Build generate model on /gpu:3
+INFO:model:Build roll generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:2
+INFO:model:Build roll generate model on /gpu:3
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:Generate the train samples
+INFO:root:Max_SARI_results: 0.32
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:601: arg_max (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `argmax` instead
+INFO:model:Build model on /gpu:1.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:model:Build model on /gpu:2.
+INFO:model:Build model on /gpu:3.
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build generate model on /gpu:2
+INFO:model:Build generate model on /gpu:3
+INFO:model:Build roll generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:2
+INFO:model:Build roll generate model on /gpu:3
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:Generate the train samples
+INFO:root:Max_SARI_results: 0.32
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:601: arg_max (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `argmax` instead
+INFO:model:Build model on /gpu:1.
+ERROR:tensorflow:Couldn't match files for checkpoint save_model1_3000tok/gan/model_epoch_13_step_13
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:Generate the train samples
+INFO:root:Max_SARI_results: 0.32
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:601: arg_max (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `argmax` instead
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:Evaluate on BLEU and SARI
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.32
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:601: arg_max (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `argmax` instead
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:SARI Model Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33859358700266445
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:SARI Model Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33859358700266445
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:SARI Model Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33887177657866163
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:SARI Model Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33887177657866163
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:SARI Model Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33887177657866163
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:SARI Model Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33887177657866163
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:BLEU Model Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33887177657866163
+INFO:root:Max_BLEU_results: 0.782059438537771
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33887177657866163
+INFO:root:Max_BLEU_results: 0.782059438537771
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:SARI Model Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33911701161558516
+INFO:root:Max_BLEU_results: 0.782059438537771
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root:SARI Model Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3392094718607575
+INFO:root:Max_BLEU_results: 0.782059438537771
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:1
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
+INFO:model:Build roll generate model on /gpu:1
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/pre_discriminator/dis_model_step_0_0000
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.32
+INFO:root:Max_BLEU_results: 0.77
+INFO:model:Build model on /gpu:0.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification/model.py:601: arg_max (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `argmax` instead
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.33921665811902946 
+ Current_BLEU is 0.7833622989339779
+INFO:root:SARI Update Successfully !!!
+INFO:root:BLEU Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.33921665811902946
+INFO:root:Max_BLEU_results: 0.7833622989339779
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.339469733103995 
+ Current_BLEU is 0.7842644648826421
+INFO:root:SARI Update Successfully !!!
+INFO:root:BLEU Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.339469733103995
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.339469733103995 
+ Current_BLEU is 0.7842644648826421
+INFO:root:SARI Update Successfully !!!
+INFO:root:BLEU Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.339469733103995
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.3395229497458351 
+ Current_BLEU is 0.7842644648826421
+INFO:root:SARI Update Successfully !!!
+INFO:root:BLEU Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.3395229497458351 
+ Current_BLEU is 0.7842644648826421
+INFO:root:SARI Update Successfully !!!
+INFO:root:BLEU Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.3395229497458351 
+ Current_BLEU is 0.7842644648826421
+INFO:root:SARI Update Successfully !!!
+INFO:root:BLEU Update Successfully !!!
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.33935767864890487 
+ Current_BLEU is 0.7824314927197558
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.3393846166475277 
+ Current_BLEU is 0.7821598624880164
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.3393846166475277 
+ Current_BLEU is 0.7821598624880164
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.3393846166475277 
+ Current_BLEU is 0.7821598624880164
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.3393846166475277 
+ Current_BLEU is 0.7821598624880164
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.3393846166475277 
+ Current_BLEU is 0.7821598624880164
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+INFO:root:6.Beam Search Output Generation Done !!!
+INFO:root:7.The Result File was saved in prepare_data/test.8turkers.clean.out.gan.
+INFO:root: Current_SARI is 0.3393846166475277 
+ Current_BLEU is 0.7821598624880164
+INFO:root:8.Generate  Negative Dataset for Discriminator !!!
+INFO:root:9.Negative Dataset was save in to prepare_data/good_train_clean.out.5000.
+INFO:root:10.Finetuen the discriminator begin !!!!!
+INFO:root:load vocab successfully!!
+INFO:root:load vocab successfully!!
+INFO:root:11.Finetune the discrimiantor done !!!!
+INFO:root:1. Policy Gradient Training !!!
+INFO:root:2. Calculate the Reward !!!
+INFO:root:3. Update the Generator Model !!!
+INFO:root:4. Save the Generator model into save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5. Doing the Teacher Forcing begin!
+INFO:root:5. Evaluation SARI and BLEU
+INFO:root:Max_SARI_results: 0.3395229497458351
+INFO:root:Max_BLEU_results: 0.7842644648826421
+INFO:model:Build model on /gpu:0.
+INFO:model:Build model on /gpu:1.
+INFO:tensorflow:Restoring parameters from save_model1_3000tok/gan/model_epoch_13_step_13000
+INFO:root:5.Translate : prepare_data/test.8turkers.clean.src.big !!!!
+DEBUG:util:Load vocabularies prepare_data/good_train_clean.src.voc and prepare_data/good_train_clean.dst.voc.
+INFO:model:Build model on /gpu:1.
+WARNING:tensorflow:From /home/yaoyuan/anaconda3/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/framework/function.py:987: calling Graph.create_op (from tensorflow.python.framework.ops) with compute_shapes is deprecated and will be removed in a future version.
+Instructions for updating:
+Shapes are always computed; don't use the compute_shapes as it has no effect.
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification_code/GAN-Simplification/model.py:649: calling argmax (from tensorflow.python.ops.math_ops) with dimension is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:From /home/yaoyuan/simple/network/GAN-Simplification_code/GAN-Simplification/tensor2tensor/common_layers.py:1339: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+INFO:root:using rmsprop for g_loss
+INFO:model:Build generate model on /gpu:1
