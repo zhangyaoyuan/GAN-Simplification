@@ -1,12 +1,12 @@
 # Sentence Simplification GAN Model
 ### **Generative Adversarial NetWork (GAN) Using TensorFlow.**
 
-####Project Introduction
+#### Project Introduction
 Sentence simplification is a task that produces a simplified sentence from any input sentence. Sentence simplification systems can be useful tools for people whose first language is not English, children, or the elderly to help with understanding. Initial approaches to this task were primarily borrowed from neural machine translation systems with transformations at the sentence level or with architectures based on recurrent neural networks (RNNs).
 
 The core building blocks are a conditional sequence generative adversarial net which comprises of two adversarial sub models : **_Generator_** and **_Discriminator_**. The **Generator** aims to generate sentences which are hard to be discriminated from human-translated sentences; the **Discriminator** makes efforts to discriminate the machine-generated sentences from humantranslated ones.
 
-####Generator features include:
+#### Generator features include:
 
   - support for advanced RNN architectures:
      - neural machine translation
@@ -73,6 +73,5 @@ Complex Sentence
 
 4. Train The Whole GAN Model ``sh gan_train.sh`` 
 
-
-##**Configuration Directory**
+## **Configuration Directory**
 ``GAN-Simplification/configs1``
