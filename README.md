@@ -61,13 +61,13 @@ Complex Sentence
 
 
 ##**Training Step by Step**
-####Generator Part
+#### Generator Part
 
 1. Pretrain Generator part ``sh generaotr.sh``  
 
 2. Generating Negetive dataset ``sh generate_sample.sh``  
 
-####Discriminator Part
+#### Discriminator Part
 
 3. Pretrain Discriminator ``sh discriminator_pretrain.sh``  
 
