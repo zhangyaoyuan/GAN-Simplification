@@ -52,7 +52,7 @@ The core building blocks are a conditional sequence generative adversarial net w
 Simplified Sentence  
 ``Apple sauce or applesauce is a puree made of apples.`` 
 
-Complex Sentence 
+Complex Sentence  
 ``Applesauce (or applesauce) is a sauce that is made from stewed or mashed apples.``
 
 **Paper** : _Hwang, William, Hannaneh Hajishirzi, Mari Ostendorf, and Wei Wu. "Aligning sentences from standard wikipedia to simple wikipedia." In Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 211-217. 2015._
@@ -60,15 +60,19 @@ Complex Sentence
 **Download Dataset** https://cs.pomona.edu/~dkauchak/simplification/data.v2/sentence-aligned.v2.tar.gz
 
 
-## **Training Step by Step**
-####Generator 
+##**Training Step by Step**
+####Generator Part
+
 1. Pretrain Generator part ``sh generaotr.sh``  
+
 2. Generating Negetive dataset ``sh generate_sample.sh``  
 
-####Discriminator
+####Discriminator Part
+
 3. Pretrain Discriminator ``sh discriminator_pretrain.sh``  
+
 4. Train The Whole GAN Model ``sh gan_train.sh`` 
 
 
-## **Configuration Directory**
+##**Configuration Directory**
 ``GAN-Simplification/configs1``
